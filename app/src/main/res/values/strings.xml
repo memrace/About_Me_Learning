@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="my_name">Alexandr Sozonov</string>
+    <string name="image_of_the_star">image of the star</string>
+    <string name="bio">Hi! My name is Alexandr Im 23 almost 25. \nIm learning kotlin  android!</string>
+    <string name="isYourNickName">What is your nickname?</string>
+    <string name="Done">Done</string>
+
+</resources>
